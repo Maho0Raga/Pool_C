@@ -9,7 +9,7 @@ int sqrt_x(int nb) {
   return i;
 }
 
-int main(void) {
+int main() {
   int n;
   if (scanf("%d", &n) != 1)
     return 0;

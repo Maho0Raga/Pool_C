@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
   char op;
   float a, b, res;
   printf("Enter operation (+ - * /) followed by two numbers:\n");

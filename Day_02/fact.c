@@ -6,7 +6,7 @@ int factorial(int nb) {
   return nb * factorial(nb - 1);
 }
 
-int main(void) {
+int main() {
   int n;
   if (scanf("%d", &n) != 1)
     return 0;
